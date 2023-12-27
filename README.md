@@ -214,6 +214,14 @@ color: #DF52A7;
  font-weight: 400;
  word-wrap: break-word
 ```
+
+## OUTPUT :
+#### HOME PAGE :
+![Alt text](1.png)
+#### INFO PAGE :
+![Alt text](2.png)
+#### END PAGE :
+![Alt text](3.png)
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
 
