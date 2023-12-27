@@ -217,11 +217,14 @@ color: #DF52A7;
 
 ## OUTPUT :
 #### HOME PAGE :
-![Alt text](1.png)
+![1](https://github.com/manogarans/event-registration/assets/139331782/a6ceac33-8fce-4ae2-a58a-33e9840a2fc9)
+
 #### INFO PAGE :
-![Alt text](2.png)
+![2](https://github.com/manogarans/event-registration/assets/139331782/49becad6-f8de-4a83-9fe0-ba797bf95224)
+
 #### END PAGE :
-![Alt text](3.png)
+![3](https://github.com/manogarans/event-registration/assets/139331782/10f5ff96-532d-41b6-871c-6ca97243cbf4)
+
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
 
